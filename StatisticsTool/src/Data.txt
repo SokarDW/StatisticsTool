@@ -1,0 +1,18 @@
+321089#Samsung#U#Sturzschaden#2016/12/11
+321085#Toshiba#Q#Flüssikgeitschaden1#2#3#45#2016/12/11
+321054#Asus#Q#USB Buchse defekt#2016/12/11
+320578#Lenovo#Q#Eingangsmosfets#2016/12/11
+320789#Apple#U#Bendgate#2016/12/11
+323456#Apple#Q#Lightning#2016/12/11
+320456#Samsung#Q#USB#2016/12/11
+321123#Toshiba#Q#Connector#2016/12/11
+321455#Asus#Q#Switch#2016/12/11
+321777#Acer#Q#DC In Buchse#2016/12/11
+321458#Asus#U#Flüssigkeitsschaden#2016/12/11
+354789#Samsung#Q#Switch#2016/12/11
+325789#Asus#Q#USB#2016/12/11
+325796#Asus#Q#USB#2016/12/11
+325996#Asus#Q#USB#2016/12/11
+325899#Asus#Q#USB#2016/12/11
+456874#Asus#Q#USB#2016/12/11
+456789#Asus#U#Flüssigkeitsschaden#2016/12/11
